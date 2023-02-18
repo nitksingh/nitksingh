@@ -1,7 +1,7 @@
 <!--
 **nitksingh/nitksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src='https://nitksingh.github.io/profile/images/nitesh.png' alt='profile'>
+<img src='https://nitksingh.github.io/nitksingh/images/nitesh.png' alt='profile'>
 
 - 🔭 I’m currently working on building big data real-time event processing pipeline for insights generation using Kafka/Spark/Storm and Tensorflow, along with rest and GraphQl API's development.
 
